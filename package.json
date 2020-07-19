@@ -15,7 +15,7 @@
     "egg-freelog-base": "^1.2.34",
     "egg-freelog-database": "^1.0.17",
     "egg-scripts": "^2.13.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongoose": "^5.9.7",
     "node-uuid": "^1.4.8",
     "patrun": "^1.0.0",
